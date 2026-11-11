@@ -1,4 +1,4 @@
-from perceptron_from_scratch.perceptron import Perceptron
+from src.perceptron import Perceptron
 
 and_data = [
     ([0,0],0),
